@@ -6,5 +6,3 @@ both an all-inclusive list of prime numbers, as well as a subset of primes known
 Sophie Germain primes.
 
 Feel free to use these scripts for educational purposes, or for your own amusement.
-As stated in the license, you are also welcome to write derivatives for non-commercial purposes, with attribution.
-Commercial use is prohibited without express permission.
